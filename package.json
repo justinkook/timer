@@ -1,0 +1,14 @@
+{
+  "name": "timer",
+  "version": "0.1.0",
+  "description": "A basic Electron app",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Alexandria 'Hannah' Isadora Patellis",
+  "dependencies": {
+    "electron": "^3.0.9",
+    "jquery": "^3.3.1"
+  }
+}
